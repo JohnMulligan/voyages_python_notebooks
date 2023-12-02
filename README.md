@@ -16,7 +16,7 @@ This will hopefully help the team as they choose which technologies they want to
 
 I have refactored one notebook and published it out as a markdown and as an html file.
 
-See [Bubble Map and Bar Graph HTML file](bubblemap_andbargraph.html)
+[The notebook, with static image outputs, can be viewed here](Slave Voyages Bubble Map + Bar Graph.ipynb)
 
 The not-yet-refactored notebooks are in the appropriately-named subfolders.
 
